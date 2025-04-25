@@ -1,4 +1,4 @@
-include <studio.h>
+#include <studio.h>
 
 int main() {
 // mover a  torre 6 casa para a direita
