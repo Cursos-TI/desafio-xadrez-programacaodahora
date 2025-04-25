@@ -1,7 +1,7 @@
 include <studio.h>
 
 int main() {
-// mover a  torre 6 cassa para a direita
+// mover a  torre 6 casa para a direita
 for (int i =0; i < 6; ++) {
  printf("direita\n"); // imprime a sireção do movimento   
 }
